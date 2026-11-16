@@ -1,0 +1,257 @@
+{
+  "version": 2,
+  "groups": {
+    "audio": {
+      "name": "Audio",
+      "order": 70
+    },
+    "decor": {
+      "name": "Décors des circuits",
+      "order": 20
+    },
+    "karts": {
+      "name": "Pilotes et karts",
+      "order": 10
+    },
+    "menu-music": {
+      "name": "Musique du menu",
+      "order": 75
+    },
+    "models": {
+      "name": "Models",
+      "order": 60
+    },
+    "pilot-sources": {
+      "name": "Sources et rigs de pilotes",
+      "order": 50
+    },
+    "share": {
+      "name": "Share",
+      "order": 40
+    },
+    "ungrouped": {
+      "name": "Ungrouped",
+      "order": 30
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/audio/Serene_Circuit_Serenade.mp3": {
+      "path": "/manus-storage/game/sha256/fa304ed174c148efa5fe3f6a8d035f418bdc9dc0523d9a0df3b5b1029e70bd0a.mp3",
+      "sha256": "sha256:fa304ed174c148efa5fe3f6a8d035f418bdc9dc0523d9a0df3b5b1029e70bd0a",
+      "size": 5789196,
+      "assetType": "audio",
+      "groupId": "menu-music"
+    },
+    "assets/favicon.png": {
+      "path": "/manus-storage/game/sha256/8b7c6219ca1a7ffc8bb38a63cfd69d59831773dfc24a9d2127a096236fff72d4.png",
+      "sha256": "sha256:8b7c6219ca1a7ffc8bb38a63cfd69d59831773dfc24a9d2127a096236fff72d4",
+      "size": 1679,
+      "assetType": "image",
+      "groupId": "ungrouped"
+    },
+    "assets/models/cactus.glb": {
+      "path": "/manus-storage/game/sha256/0b85001d463bfb1e252a75711acb6d1b92b40cc4ac4811c7ee4debab10eb9d1b.glb",
+      "sha256": "sha256:0b85001d463bfb1e252a75711acb6d1b92b40cc4ac4811c7ee4debab10eb9d1b",
+      "size": 931952,
+      "assetType": "model",
+      "groupId": "decor"
+    },
+    "assets/models/kart_abel.glb": {
+      "path": "/manus-storage/game/sha256/fcbdc75e7a24ffcf6708ca9a3919054e1beef905437dd74ad897bf1eab3617b4.glb",
+      "sha256": "sha256:fcbdc75e7a24ffcf6708ca9a3919054e1beef905437dd74ad897bf1eab3617b4",
+      "size": 1139508,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_abel_combo_v2.glb": {
+      "path": "/manus-storage/game/sha256/aa56658d6ea2afa564d1da4fdb1a6878838f85d5fd42cf01e9fcdead4766bdd6.glb",
+      "sha256": "sha256:aa56658d6ea2afa564d1da4fdb1a6878838f85d5fd42cf01e9fcdead4766bdd6",
+      "size": 867852,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_abel_driver.glb": {
+      "path": "/manus-storage/game/sha256/23975c7e8970298aad148e7a167a4230977731b921db2d71bfe80d016560d834.glb",
+      "sha256": "sha256:23975c7e8970298aad148e7a167a4230977731b921db2d71bfe80d016560d834",
+      "size": 1279592,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_abel_rigged.glb": {
+      "path": "/manus-storage/game/sha256/cdcff8b450ed0a246a34f56a466eb1deb17be5f963c81626424c673eda705e5b.glb",
+      "sha256": "sha256:cdcff8b450ed0a246a34f56a466eb1deb17be5f963c81626424c673eda705e5b",
+      "size": 1279576,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_cat.glb": {
+      "path": "/manus-storage/game/sha256/b8a4fee28730c1522bcad845f4dd52be8c8640bb9c5a09b856ecdbb60a172ce7.glb",
+      "sha256": "sha256:b8a4fee28730c1522bcad845f4dd52be8c8640bb9c5a09b856ecdbb60a172ce7",
+      "size": 833872,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_fox.glb": {
+      "path": "/manus-storage/game/sha256/2c2d53a59d0c03d2d1112c092a1bdbec36e246bae9e9c1d386cc20d430af0711.glb",
+      "sha256": "sha256:2c2d53a59d0c03d2d1112c092a1bdbec36e246bae9e9c1d386cc20d430af0711",
+      "size": 1100184,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_frog.glb": {
+      "path": "/manus-storage/game/sha256/e96132e9a8118518f1b4d1f708c3173c4aa5b5ebddd51125c663071dc6ff9a8a.glb",
+      "sha256": "sha256:e96132e9a8118518f1b4d1f708c3173c4aa5b5ebddd51125c663071dc6ff9a8a",
+      "size": 869368,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_hedgehog.glb": {
+      "path": "/manus-storage/game/sha256/7c2d3b6bbeb9ee09fbc1aeb1345e661b076a6363ee77d9ad956a8d68ae85ad0a.glb",
+      "sha256": "sha256:7c2d3b6bbeb9ee09fbc1aeb1345e661b076a6363ee77d9ad956a8d68ae85ad0a",
+      "size": 1134832,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_liam.glb": {
+      "path": "/manus-storage/game/sha256/85be8d8bf7fd12930c088395c82f0102f174e7db55bd524f31a03cd0981c4ea3.glb",
+      "sha256": "sha256:85be8d8bf7fd12930c088395c82f0102f174e7db55bd524f31a03cd0981c4ea3",
+      "size": 1059320,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_liam_combo_v2.glb": {
+      "path": "/manus-storage/game/sha256/979f4fae3c16bd06160f3d9c39e995a016883d7f3cfc13c77b5abcdce7765e68.glb",
+      "sha256": "sha256:979f4fae3c16bd06160f3d9c39e995a016883d7f3cfc13c77b5abcdce7765e68",
+      "size": 1038132,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_liam_driver.glb": {
+      "path": "/manus-storage/game/sha256/06dfa9225257a5b0ab00c8ff167f497c3bdf692efff1555b0e819957173a24af.glb",
+      "sha256": "sha256:06dfa9225257a5b0ab00c8ff167f497c3bdf692efff1555b0e819957173a24af",
+      "size": 1201208,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_liam_rigged.glb": {
+      "path": "/manus-storage/game/sha256/b293b84d5d0e0824225bee32236b0b1e48c7b0a91559a8c27f6aab3bcd61cd78.glb",
+      "sha256": "sha256:b293b84d5d0e0824225bee32236b0b1e48c7b0a91559a8c27f6aab3bcd61cd78",
+      "size": 1201192,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_lucas.glb": {
+      "path": "/manus-storage/game/sha256/36ac63ee2d8b6ea6ff6df6344311fa67118e86a3cfe0901e49a6a398034c6eb2.glb",
+      "sha256": "sha256:36ac63ee2d8b6ea6ff6df6344311fa67118e86a3cfe0901e49a6a398034c6eb2",
+      "size": 1186956,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_milo.glb": {
+      "path": "/manus-storage/game/sha256/a745af2ed57a9344fe4e1a3157faa72d430c90820a7e1e8f6bffd1dfabc7f343.glb",
+      "sha256": "sha256:a745af2ed57a9344fe4e1a3157faa72d430c90820a7e1e8f6bffd1dfabc7f343",
+      "size": 1047532,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_milo_combo_v2.glb": {
+      "path": "/manus-storage/game/sha256/ddb0ec65e44bb158fe20456a2dee3b8f68223e910b689cab3604ac061e1a4cda.glb",
+      "sha256": "sha256:ddb0ec65e44bb158fe20456a2dee3b8f68223e910b689cab3604ac061e1a4cda",
+      "size": 1161536,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_milo_driver.glb": {
+      "path": "/manus-storage/game/sha256/93221d53acc21aa29a53a95d2ee28f9ec81469c3fa6875d692a2d78439fe0ce8.glb",
+      "sha256": "sha256:93221d53acc21aa29a53a95d2ee28f9ec81469c3fa6875d692a2d78439fe0ce8",
+      "size": 1183892,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_milo_rigged.glb": {
+      "path": "/manus-storage/game/sha256/f1bf7bed171305bee011ffff84a513439065cbbc5b5101be1e5ec1fc48b8a13b.glb",
+      "sha256": "sha256:f1bf7bed171305bee011ffff84a513439065cbbc5b5101be1e5ec1fc48b8a13b",
+      "size": 1183876,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_penguin.glb": {
+      "path": "/manus-storage/game/sha256/fb084c7b712e115836086951d0981370769fd059fd705ebcbf1416bd8f6f1f16.glb",
+      "sha256": "sha256:fb084c7b712e115836086951d0981370769fd059fd705ebcbf1416bd8f6f1f16",
+      "size": 942112,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_poke_driver.glb": {
+      "path": "/manus-storage/game/sha256/3e17b7700bfc558afcd2be1a77586420619c13c4aeb2c54a65443f3132511942.glb",
+      "sha256": "sha256:3e17b7700bfc558afcd2be1a77586420619c13c4aeb2c54a65443f3132511942",
+      "size": 1220088,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_quentin.glb": {
+      "path": "/manus-storage/game/sha256/173bf7c7ba371339ae8f8e9fb76298347e24eaad496807aef952007bb186acb4.glb",
+      "sha256": "sha256:173bf7c7ba371339ae8f8e9fb76298347e24eaad496807aef952007bb186acb4",
+      "size": 1162784,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_quentin_combo_v2.glb": {
+      "path": "/manus-storage/game/sha256/6bafa66d8e8f9a7b9cbc0f56a20ca818dd9692699b28ddfb4d168b9079e84c3a.glb",
+      "sha256": "sha256:6bafa66d8e8f9a7b9cbc0f56a20ca818dd9692699b28ddfb4d168b9079e84c3a",
+      "size": 1295432,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_quentin_driver.glb": {
+      "path": "/manus-storage/game/sha256/e7614cfb27c8cec16067dfdccf4f16d37357079b568d2b3b51e7826310715137.glb",
+      "sha256": "sha256:e7614cfb27c8cec16067dfdccf4f16d37357079b568d2b3b51e7826310715137",
+      "size": 1311364,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/kart_quentin_rigged.glb": {
+      "path": "/manus-storage/game/sha256/ae7ee243f3c5d39002a4299fd03111ea9f4538b68de425ca17d45893de1e682a.glb",
+      "sha256": "sha256:ae7ee243f3c5d39002a4299fd03111ea9f4538b68de425ca17d45893de1e682a",
+      "size": 1311344,
+      "assetType": "model",
+      "groupId": "pilot-sources"
+    },
+    "assets/models/kart_robot.glb": {
+      "path": "/manus-storage/game/sha256/f2f327efa7012c20ce8805be9e72e068a13e6b1d6210598f962e1a845662ff8c.glb",
+      "sha256": "sha256:f2f327efa7012c20ce8805be9e72e068a13e6b1d6210598f962e1a845662ff8c",
+      "size": 826384,
+      "assetType": "model",
+      "groupId": "karts"
+    },
+    "assets/models/palm.glb": {
+      "path": "/manus-storage/game/sha256/a38e7fc83c1309a011bd5f4502544f393b7cf2326bef565ba8245c4f9d87a178.glb",
+      "sha256": "sha256:a38e7fc83c1309a011bd5f4502544f393b7cf2326bef565ba8245c4f9d87a178",
+      "size": 1004860,
+      "assetType": "model",
+      "groupId": "decor"
+    },
+    "assets/models/rock.glb": {
+      "path": "/manus-storage/game/sha256/37fd09d3d87be822f5526e2da67e62cd3ba2a650d97873b51f5613736c683c06.glb",
+      "sha256": "sha256:37fd09d3d87be822f5526e2da67e62cd3ba2a650d97873b51f5613736c683c06",
+      "size": 386384,
+      "assetType": "model",
+      "groupId": "decor"
+    },
+    "assets/models/tree_round.glb": {
+      "path": "/manus-storage/game/sha256/20db36d3eebb9d18ceeeab591be44ce20a32a14d7cfd0b802604ac3078acec9f.glb",
+      "sha256": "sha256:20db36d3eebb9d18ceeeab591be44ce20a32a14d7cfd0b802604ac3078acec9f",
+      "size": 440584,
+      "assetType": "model",
+      "groupId": "decor"
+    },
+    "assets/share/og.png": {
+      "path": "/manus-storage/game/sha256/85a2ca928b6be41e1e2d3aa4cbef89bb1474b13c6c898d2b6747379d439d43cc.png",
+      "sha256": "sha256:85a2ca928b6be41e1e2d3aa4cbef89bb1474b13c6c898d2b6747379d439d43cc",
+      "size": 4605508,
+      "assetType": "image",
+      "groupId": "share"
+    }
+  }
+}

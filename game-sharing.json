@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "title": "HG KART ! ULTRA RACING",
+  "description": "Jeu de karts 3D arcade en français avec six pilotes, sept circuits, des classes 100/150/250 cc et une mêlée Balloon Fight dans son arène dédiée.",
+  "defaultCaptions": {
+    "x": "HG KART ! ULTRA RACING : 7 circuits, 3 classes de cylindrée et la mêlée Balloon Fight dans une course arcade 3D !",
+    "facebook": "Découvrez HG KART ! ULTRA RACING : classes 100/150/250 cc, circuits colorés et Balloon Fight !",
+    "reddit": "HG KART ! ULTRA RACING — jeu de karts arcade 3D, sept circuits et un mode Balloon Fight dédié.",
+    "discord": "HG KART ! ULTRA RACING : choisissez votre pilote, votre cylindrée et foncez sur sept circuits !"
+  },
+  "assets": {
+    "favicon": "assets/favicon.png",
+    "og": "assets/share/og.png"
+  }
+}

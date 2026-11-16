@@ -1,0 +1,43 @@
+node_modules/
+dist/
+shots/
+/.manus-webdev/preview-identity.json
+# Assets restored from assets.lock.json
+/assets/models/cactus.glb
+/assets/models/kart_cat.glb
+/assets/models/kart_fox.glb
+/assets/models/kart_frog.glb
+/assets/models/kart_hedgehog.glb
+/assets/models/kart_penguin.glb
+/assets/models/kart_robot.glb
+/assets/models/palm.glb
+/assets/models/rock.glb
+/assets/models/tree_round.glb
+# Assets restored from assets.lock.json
+/assets/favicon.png
+# Assets restored from assets.lock.json
+/assets/share/og.png
+# Assets restored from assets.lock.json
+/assets/models/kart_abel_driver.glb
+/assets/models/kart_liam_driver.glb
+/assets/models/kart_lucas.glb
+/assets/models/kart_milo_driver.glb
+/assets/models/kart_quentin_driver.glb
+# Assets restored from assets.lock.json
+/assets/models/kart_abel.glb
+/assets/models/kart_abel_rigged.glb
+/assets/models/kart_liam.glb
+/assets/models/kart_liam_rigged.glb
+/assets/models/kart_milo.glb
+/assets/models/kart_milo_rigged.glb
+/assets/models/kart_quentin.glb
+/assets/models/kart_quentin_rigged.glb
+# Assets restored from assets.lock.json
+/assets/models/kart_poke_driver.glb
+# Assets restored from assets.lock.json
+/assets/models/kart_abel_combo_v2.glb
+/assets/models/kart_liam_combo_v2.glb
+/assets/models/kart_milo_combo_v2.glb
+/assets/models/kart_quentin_combo_v2.glb
+# Assets restored from assets.lock.json
+/assets/audio/Serene_Circuit_Serenade.mp3
